@@ -1,3 +1,6 @@
+> ⚠️ **BETA – Work in Progress**  
+> Keine Rechtsberatung. Keine Haftung für Vollständigkeit oder Richtigkeit der Inhalte. 
+> Alle Ausgaben müssen eigenständig geprüft werden.
 # Claude for Legal
 
 Reference agents, skills, and data connectors for the legal workflows we see most — in-house commercial, privacy, product, corporate, employment, litigation, regulatory, AI governance, IP, and the learning side of the practice (law school clinics and students).
